@@ -2,7 +2,7 @@
 
 ## Installation
 
- **Clone the repository:**
+### Clone the repository:
 
    
    ```bash git clone https://github.com/chandra827/Triveous_assignment2.git
