@@ -9,6 +9,7 @@
    cd your-project
    npm install
    npm run start
+   ```bash
 
 ## Tech Stack
 
