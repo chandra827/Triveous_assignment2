@@ -5,10 +5,10 @@
 ### Clone the repository:
 
    
-   git clone https://github.com/chandra827/Triveous_assignment2.git
-   cd your-project
-   npm install
-   npm run start
+   - git clone https://github.com/chandra827/Triveous_assignment2.git
+   - cd your-project
+   - npm install
+   - npm run start
    
 
 ## Tech Stack
